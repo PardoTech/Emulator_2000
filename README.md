@@ -1,3 +1,7 @@
+<img width="1024" height="1536" alt="ChatGPT Image 12_08_2025, 22_06_05" src="https://github.com/user-attachments/assets/eef0b18b-3167-4e5d-a230-586ff17af4c9" />
+
+Faça download do programa (https://drive.google.com/drive/folders/1w5IilrTNeHX--dNzi__SpM1ZNJMr04ia?usp=sharing).
+   
 # Emulator_2000
 Emulador de consolas retro: desde retro PC's como Spectrum até Dreamcast.
 
@@ -15,7 +19,6 @@ Permite passar horas a jogar velhas pérolas do retro gaming com facilidade.
 
 ## Como correr o programa
 
-- O executável deve estar na mesma pasta onde se encontra a pasta oculta `ExternalAssets`, que contém os jogos, imagens, ROMs e emuladores necessários.  
 - Para correr, basta executar o ficheiro `.exe`.  
 - Certifica-te que todos os DLLs necessários estão na mesma pasta do executável.  
 - O programa foi testado em Windows 10 e 11 (64-bit).  
@@ -24,14 +27,13 @@ Permite passar horas a jogar velhas pérolas do retro gaming com facilidade.
 
 - Sistema operativo: Windows 10 ou 11 (64-bit).  
 - .NET Runtime 9.0 (ou superior) instalado no sistema.  
-- Espaço em disco suficiente para os jogos e emuladores que quiseres adicionar.
+- Espaço em disco suficiente para os jogos que quiseres adicionar.
 
 ## Como adicionar/remover jogos
 
-- Para adicionar um novo jogo, usa a funcionalidade **Adicionar Jogo** dentro do programa.  
-- Para apagar um jogo, seleciona-o e usa a opção **Apagar Jogo**.  
-- Para trocar a imagem de um jogo, seleciona a opção **Alterar Imagem**.  
-- Todas as alterações são feitas diretamente na pasta `ExternalAssets` pelo programa, garantindo que o utilizador não mexe manualmente nessa pasta.
+- Para adicionar um novo jogo, usa a funcionalidade **Adicionar** dentro do programa.  
+- Para apagar um jogo, seleciona-o e usa a opção **Apagar **.  
+- Para trocar a imagem de um jogo, seleciona a opção **Imagem**.
 
 ## Screenshots
 
