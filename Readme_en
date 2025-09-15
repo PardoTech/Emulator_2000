@@ -1,0 +1,28 @@
+Download the program (https://drive.google.com/drive/folders/1w5IilrTNeHX--dNzi__SpM1ZNJMr04ia?usp=sharing).
+
+Emulador_2000
+=> Retro console emulator: from retro PCs like Spectrum to Dreamcast.
+
+Emulador_2000
+=> A lightweight and practical emulator for retro game lovers!
+Allows you to spend hours playing old retro game gems with ease.
+
+Features
+=> Simply add, delete, and change game images.
+=> Explanatory information about the games.
+=> Access the emulators used for audio, image, and input settings.
+=> Interface written in C# with Avalonia for maximum compatibility and performance.
+=> How to run the program
+=> To run, simply run the .exe file.
+=> Make sure all necessary DLLs are in the same folder as the executable.
+=> The program has been tested on Windows 10 and 11 (64-bit).
+
+Requirements
+=> Operating system: Windows 10 or 11 (64-bit).
+=> .NET Runtime 9.0 (or higher) installed on the system.
+=> Sufficient hard drive space for the games you want to add.
+
+How to add/remove games
+=> To add a new game, use the Add feature within the program.
+=> To delete a game, select it and use the **Delete** option.
+=> To change a game's image, select the Image option.
