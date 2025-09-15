@@ -1,0 +1,10 @@
+Se ouver problemas com alguns emuladores, aqui fica algumas soluções:
+
+-- A Pasta ExternaAssets é oculta, é nesta pasta que encontram-se os emuladores. 
+   Se ouver problemas com alguns emuladores é nesta que os deve resolver.
+
+- Nintendo64: Se não ouver imagem, é porque a resolução poderá estar alta. Definir nas opções gráficas a resolução.
+- Arcade: Abrir o emulador e definir nas opções - "Abrir ao iniciar". Fechar e voltar a iniciar o emulador. 
+          Verificar o caminho para a pasta dos roms. O caminho deveria ser /ExtrenalAssests/Arcade/emulator/roms/arcade.
+- PlayStation: Verificar o caminho para a pasta das bios. Iniciar emulador e verificar. O caminho deveria ser /ExtrenalAssests/PlaySation/emulator/bios.
+- Saturn: Verificar o caminho para a pasta da bios.  O caminho deveria ser /ExtrenalAssests/Saturn/emulator/Sega Saturn BIOS.
