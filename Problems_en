@@ -1,0 +1,10 @@
+If you're having problems with some emulators, here are some solutions:
+
+- The ExternalAssets folder is hidden; this is where the emulators are located.
+  If you're having problems with some emulators, this is where you should troubleshoot them.
+
+- Nintendo64: If you can't see any images, the resolution may be too high. Set the resolution in the graphics options.
+- Arcade: Open the emulator and set "Open on startup" in the options. Close and restart the emulator.
+- Check the path to the ROMs folder. The path should be /ExternalAssests/Arcade/emulator/roms/arcade.
+- PlayStation: Check the path to the BIOS folder. Start the emulator and verify. The path should be /ExternalAssests/PlayStation/emulator/bios.
+- Saturn: Check the path to the BIOS folder. Start the emulator and verify. The path should be /ExtrenalAssests/Saturn/emulator/Sega Saturn BIOS.
